@@ -8,5 +8,5 @@ High School Diploma
 
 Northeastern University
 Bachelor of Science
-Data Science
-2024 - 2028
+Major: Data Science
+Expected Graduation Date: April 2028
