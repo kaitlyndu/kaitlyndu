@@ -8,5 +8,7 @@ High School Diploma
 
 Northeastern University
 Bachelor of Science
+
 Major: Data Science
+
 Expected Graduation Date: April 2028
